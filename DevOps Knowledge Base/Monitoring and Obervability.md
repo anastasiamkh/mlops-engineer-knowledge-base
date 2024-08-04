@@ -1,0 +1,2 @@
+#monitoring
+[[logging]], [[tracing]], [[metrics]]
